@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Third-party tile editor binaries (exceed GitHub 100MB limit)
+res/2D Tile Editor/
